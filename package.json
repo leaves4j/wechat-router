@@ -8,16 +8,17 @@
   "directories": {
     "test": "test"
   },
-  "devDependencies": {
-    "should": "^8.2.2"
-  },
   "engines": {
     "node": ">=4.2.0"
   },
   "scripts": {
     "test": "mocha test/index.js"
   },
-  "author": "",
+  "author": {
+    "name": "leaves4j",
+    "email": "jiangq.leaves@gmail.com",
+    "url": "http://blog.leaflives.com"
+  },
   "license": "MIT",
   "description": ""
 }
