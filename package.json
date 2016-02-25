@@ -20,6 +20,10 @@
     "url": "http://blog.leaflives.com"
   },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/leaves4j/wechat-router.git"
+  },
   "keywords": [
     "wechat",
     "router",
