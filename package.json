@@ -20,5 +20,10 @@
     "url": "http://blog.leaflives.com"
   },
   "license": "MIT",
+  "keywords": [
+    "wechat",
+    "router",
+    "route"
+  ],
   "description": "wechat-router是一个基于node-wechat的微信路由中间件"
 }
